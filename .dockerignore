@@ -1,0 +1,11 @@
+.git
+.vscode
+
+.DS_Store
+dist
+*.local
+
+# debug
+yarn-error.log*
+# src
+node_modules
